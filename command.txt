@@ -1,0 +1,8 @@
+nextjs project install with tailwindcss command
+    npx create-next-app -e with-tailwindcss ./
+    
+project run command
+    npm run dev
+
+heroicon install command
+    npm install @heroicons/react
